@@ -13,7 +13,6 @@
                 compatible = "zmk,keymap";
 
                 default_layer {
-						 LP
 // -----------------------------------------------------------------------------------------
                         bindings = <
    &kp ESC   &kp W &kp L &kp Y &kp P &kp B   &kp Z &kp F &kp O    &kp U     &kp SQT &kp BSPC
